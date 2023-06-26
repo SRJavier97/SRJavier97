@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm [F. Javier Sevilla R.](https://www.linkedin.com/in/fjavier-sevillar/)
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
 
 > Mechatronic Engineering at [UNAM](https://www.unam.mx/)
 
 - 🔭 I’m currently working on an IT company focused on SDLC for vehicles
 - 🌱 I’m currently learning QA Automation
 - 📫 How to reach me: look for me in LinkedIn
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like playing single player games
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRJavier97&show_icons=true&theme=transparent)
 
